@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\bin\Debug\Animacion.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\bin\Debug\Animacion.exe
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\bin\Debug\Animacion.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\obj\Debug\Animacion.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\obj\Debug\Animacion.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\obj\Debug\Animacion.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\obj\Debug\Animacion.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\obj\Debug\Animacion.exe
+c:\users\owner\documents\visual studio 2015\Projects\Animacion\Animacion\obj\Debug\Animacion.pdb
